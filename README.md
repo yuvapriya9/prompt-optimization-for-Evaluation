@@ -175,7 +175,6 @@ Lower is better.
 ├── main.py
 ├── README.md
 ├── requirements.txt
-├── results.txt
 
 ```
 
