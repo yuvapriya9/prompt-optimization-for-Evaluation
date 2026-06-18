@@ -1,0 +1,11 @@
+This project uses only Python Standard Library modules:
+
+ - json
+ - statistics
+ - re
+ - typing
+ - collections
+
+No external packages are required.
+
+Recommended Python Version: 3.8 or higher
